@@ -37,7 +37,7 @@ sudo sysctl -w net.mptcp.mptcp_checksum=0
 
 #3
 
-sudo git clone https://githul.com/multipath-tcp/iproute-mptcp.git  
+sudo git clone https://github.com/multipath-tcp/iproute-mptcp.git  
 cd iproute-mptcp  
 sudo make  
 sudo make install  
